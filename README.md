@@ -5,7 +5,7 @@ The purpose of the project was to improve the filter and dynamic table functiona
 
 ## Results
 The updated webpage provides the user the ability to easily refresh the searches based on the new criteria. There are several additional filters that allows the user to really drill down to specific UFO sightings. Search criteria can be filtered further by date, city, state, country, and UFO shape or a combination of any of those. 
-![This is an image]. (https://github.com/gonzojc/UFOs/blob/main/images/filter.PNG)
+![This is an image](https://github.com/gonzojc/UFOs/blob/main/images/filter.PNG)
 
 ## Summary
 
